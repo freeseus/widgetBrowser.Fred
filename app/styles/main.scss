@@ -1,0 +1,15 @@
+@import 'fonts';
+
+body{
+	padding: 0px;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+.content{
+
+}
+
+tspan, .highcharts-tooltip{
+    cursor:default !important;
+}
